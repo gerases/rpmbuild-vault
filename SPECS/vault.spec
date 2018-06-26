@@ -1,7 +1,7 @@
 %define debug_package %{nil}
 
 Name:           vault
-Version:        0.9.6
+Version:        0.10.2
 Release:        1%{dist}
 Summary:        A tool for managing secrets
 Group:          Applications/Internet
